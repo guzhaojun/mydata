@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 home: true
 modules:
@@ -30,6 +29,3 @@ isShowTitleInHome: true
 actionText: About
 actionLink: /views/other/abouta
 ---
-=======
-"# mydata" 
->>>>>>> f2b3520b5d2f248f7ec05f5532221972e5101519
