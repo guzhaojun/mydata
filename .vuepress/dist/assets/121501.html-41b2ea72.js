@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1fbf069a","path":"/blogs/2qianduan/121501.html","title":"first page in 前端","lang":"en-US","frontmatter":{"title":"first page in 前端","date":"2016/12/15","tags":["前端"],"categories":["前端"]},"headers":[],"git":{},"filePathRelative":"blogs/2前端/121501.md"}');export{t as data};
