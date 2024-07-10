@@ -1,0 +1,3 @@
+netstat -ano | findstr 19890
+
+然后任务管理器找到对应的pid
