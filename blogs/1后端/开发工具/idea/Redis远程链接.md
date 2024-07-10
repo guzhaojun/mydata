@@ -1,3 +1,14 @@
+---
+title: 2023/11/10 page in 后端
+date: 2023/11/10
+tags:
+ - 后端
+categories:
+ - 后端
+---
+
+
+
 ## [redis配置允许远程连接](https://www.cnblogs.com/haoxuanchen2014/p/17922483.html)
 
 1、修改redis.conf

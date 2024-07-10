@@ -1,1 +1,0 @@
-import{_ as e,p as t,q as s,s as _}from"./framework-e1bed10d.js";const c={},n=_("p",null,"second page in 后端",-1),o=[n];function a(r,l){return t(),s("div",null,o)}const i=e(c,[["render",a],["__file","1110.html.vue"]]);export{i as default};
