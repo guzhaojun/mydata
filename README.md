@@ -27,5 +27,5 @@ blog:
     - { icon: 'LogoCsdn', link: 'https://blog.csdn.net/weixin_40379712?spm=1000.2115.3001.5343' }
 isShowTitleInHome: true
 actionText: About
-actionLink: /views/other/abouta
+actionLink: /views/other/about
 ---
