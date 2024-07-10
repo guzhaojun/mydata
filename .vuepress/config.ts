@@ -4,15 +4,15 @@ import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
   title: "清柠软件编程",
-  description: "Just playing around",
+  description: "开发知识总结",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
     author: "guzj",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
-    docsBranch: "main",
-    docsDir: "example",
+    docsBranch: "master",
+    docsDir: "开发知识总结",
     lastUpdatedText: "",
     navbar: [
       { text: "首页", link: "/" },

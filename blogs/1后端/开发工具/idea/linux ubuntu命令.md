@@ -1,10 +1,10 @@
 ---
-title: 2023/11/10 page in 后端
+title: ubuntu命令
 date: 2023/11/10
 tags:
-- 后端
+- linux 
 categories:
-- linux
+- 后端
 ---
 4. 开机启动
 
